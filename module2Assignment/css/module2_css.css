@@ -8,6 +8,11 @@ body{
 	font-family: Arial, sans; 
 	font-size: 14px;
 }
+
+h1{
+  font-size: 1.75em;
+  text-align: center;
+}
 .sectionStyle{
 	border-color: black; 
 	border-style: solid; 
@@ -15,7 +20,7 @@ body{
 	background-color: #fefce6;
 	opacity: .8;
 	/*background-color: gray;*/
-	margin: 5px;
+	margin: 8px;
 }
 
 .sectionTitle{
